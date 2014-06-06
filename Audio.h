@@ -5,6 +5,8 @@
 #include "constants.h"
 #include <xact3.h>
 
+//utilizes SFML
+
 class Audio
 {
 protected:

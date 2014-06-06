@@ -5,6 +5,7 @@
 //=============================================================================
 Audio::Audio()
 {
+	//this sucks
 	xactEngine = NULL;
 	waveBank = NULL;
 	soundBank = NULL;
